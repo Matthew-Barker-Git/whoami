@@ -21,7 +21,7 @@ Currently getting into programming again, I'm into cybersecurity and advanced sc
 
 #### Support
 
-<noscript><a href="https://liberapay.com/Matthew-Barker/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<a href="https://liberapay.com/Matthew-Barker/donate" target="_blank"><img alt="Liberapay Badge" src="https://img.shields.io/static/v1?label=Donate&logo=liberapay&message=Here">
 
 
 More Will Be Added In The Future, But For Now This Is A Placeholder Of Sorts
