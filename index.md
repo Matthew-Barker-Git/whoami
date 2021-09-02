@@ -11,7 +11,7 @@ Currently getting into programming again, I'm into cybersecurity and advanced sc
 - Favourite Genre - Metal
 
 
-<img alt="Last.FM Badge" src="https://img.shields.io/static/v1?label=Last.fm&logo=last.fm?link=https://www.last.fm/user/lErrorl404l&message=Click+If+Interested">
+<a href="https://www.last.fm/user/lErrorl404l" target="_blank"><img alt="Last.FM Badge" src="https://img.shields.io/static/v1?label=Last.fm&logo=last.fm?&message=Click+If+Interested"></a>
 
 
 
