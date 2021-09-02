@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+#### About Me
 
-You can use the [editor on GitHub](https://github.com/Matthew-Barker-Git/Notitia-Paradoxum.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Currently getting into programming again, I'm into cybersecurity and advanced science, computers and technology too, I'm also a lover of art and horror, making my own occasionally with my graphic design skills which I've picked up over the years, and of course, I listen to a lot of metal, in fact, it's one of the only things I listen to.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- TLDR;
+- Name - You can call me Matt
+- Gender - Male
+- Age - 19
+- Location - The United Kingdom
+- Hobbies - Tech, Science, Gaming, Music, Watching Horror, Drinking Coffee.
+- Favourite Genre - Metal
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img alt="Last.FM Badge" src="https://img.shields.io/static/v1?label=Last.fm&logo=last.fm?link=https://www.last.fm/user/lErrorl404l&message=Click+If+Interested">
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#### Email
 
-1. Numbered
-2. List
+<img alt="Email Badge" src="https://img.shields.io/static/v1?label=Contact+Me&logo=email?link=mailto:matthewbarker@librem.one&message=Here">
 
-**Bold** and _Italic_ and `Code` text
+#### Support
 
-[Link](url) and ![Image](src)
-```
+<noscript><a href="https://liberapay.com/Matthew-Barker/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Matthew-Barker-Git/Notitia-Paradoxum.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+More Will Be Added In The Future, But For Now This Is A Placeholder Of Sorts
