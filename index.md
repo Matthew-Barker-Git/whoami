@@ -17,7 +17,7 @@ Currently getting into programming again, I'm into cybersecurity and advanced sc
 
 #### Email
 
-<img alt="Email Badge" src="https://img.shields.io/static/v1?label=Contact+Me&logo=email?link=mailto:matthewbarker@librem.oneleft&message=Here">
+<a href="mailto:matthewbarker@librem.one" target="_blank"><img alt="Email Badge" src="https://img.shields.io/static/v1?label=Contact+Me&logo=email&message=Here">
 
 #### Support
 
